@@ -19,7 +19,8 @@
 ## Course Meeting Details
 * **Course Dates**: [Start - End]
 ### Class Meetings
-* TECH: Tues - Fri 9:00am - 4:00pm Eastern time
+* TECH: Tues - Thurs 6:00pm - 9:00pm Eastern time
+* TECH: Sat 10:00pm - 5:00pm Eastern time
 * Career Dev: Mondays, 9:00am - 5:00pm Eastern time
 
 ### Structured Homework
