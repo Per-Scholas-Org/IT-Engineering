@@ -48,8 +48,7 @@
 
 
 #### Tory
-* Tuesday 6:00pm EST - 8:00pm EST
-* Thursday 6:00pm EST - 8:00pm EST
+*TBD
 
 #### Roberto | MANDATORY ATTENDANCE MOD 3
 * Tues & Thurs 8:00pm EST - 9:00pm EST
