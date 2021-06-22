@@ -1,5 +1,5 @@
 # Software Engineering Remote - Template
-* [Lesson Schedule, Quick Links & Recordings](#class-lessons-recordings)
+* [Lesson Schedule, Quick Links 
 * Course Meeting Details
 * Instructor Team
 * Communication
@@ -8,7 +8,7 @@
 * What We Expect From You
 * Graduation Requirements
 * Additional Expectations
-* Group Work Formats
+
 
 ## Before Class Each Day
 - `git add .`
@@ -21,21 +21,7 @@
 ### Class Meetings
 * TECH: Tues - Thurs 6:00pm - 9:00pm Eastern time
 * TECH: Sat 10:00pm - 5:00pm Eastern time
-* Career Dev: Mondays, 9:00am - 5:00pm Eastern time
 
-### Structured Homework
-* Tues - Fri 4:00pm - 5:00pm Eastern time
-### Holidays
-* Tuesday, November 3rd
-* Wednesday, November 11th
-* Wednesday, November 25th
-* Saturday, November 28th
-* Wednesday, December 23rd
-* Saturday, December 26th
-* Tuesday, December 29th
-* Wednesday, December 30th
-* Thursday, December 31st
-* Saturday, January 2nd
 
 ## In Class
 * Before class:
@@ -51,25 +37,23 @@
 
 
 ## Instructor Team
-* Lead Instructor: Angel Juarez
-* Lead Instructor: Shaniece Crumpler
-* Teaching Fellow: Jose Cruz
-* Instructional Assistant: Jade Del-Rosario
+* Lead Instructor: Tory Thompson
+* Lead Instructor: Roberto Santos 
+* Instructional Assistant: Abraham E. Tavarez
 * Homework Grader - Josh Akins
 
 
-## Office Hours 
+### Office Hourse
+* TBD
 
-#### Angel/Shaniece
-Structured Homework Time
 
-#### Jose
+#### Tory
 * Tuesday 6:00pm EST - 8:00pm EST
 * Thursday 6:00pm EST - 8:00pm EST
 
-#### Jade
-* Monday 6:00pm EST - 8:00pm EST
-* Wednesday 6:00pm EST - 8:00pm EST
+#### Roberto | MANDATORY ATTENDANCE MOD 3
+* Tues & Thurs 8:00pm EST - 9:00pm EST
+* Sat 3:00pm EST - 5:00pm EST
 
 ## Communication
 ##### Send your instructional team a group message if:
@@ -86,31 +70,31 @@ Structured Homework Time
 **Remember we are here to help you! Please reach out with any questions :)**
 
 ## Course Overview
-* Coding webpages using Hypertext Markup Language (HTML), Cascading Style
-Sheets (CSS), and JavaScript.
-* Programming and computer science fundamentals, as well as software engineering best practices.
-* Version control and collaborative software development with Git and GitHub.
-* Developing full-stack applications with in-demand technologies using Springboot.
-* Building full-stack applications by leveraging common design and architectural patterns like model–view–controller (MVC) and Representational State Transfer (REST).
-* Safely modeling and storing data in SQL and NoSQL databases.
-* Consuming and integrating third-party application programming interfaces (APIs) in an application.
-* Front-end web application development with modern JavaScript frameworks such as React.
-* Deploying applications to the web via cloud-based hosting.
-* Implementing common data structures encountered in technical interview situations
-* Solving algorithmic challenges and analyzing the computational complexity of algorithms using Big O notation
 
-#### Mod Structure
-| Mod | Content | Languages/Frameworks | 
-|:---:|:-----------:|:-----------:|
-| Mod 1 | Intro to Web Development | HTML/CSS/JS
-| Mod 2 | Front-end Frameworks | React
-| Mod 3 | Back-End Frameworks | Spring/Mongo/SQL
+
+### Pre-Work: Networking Fundamentals 
+
+* Self - paced learning on networking fundamentals to be completed before the beginning of class. Topics include OSI Model, Sockets, Wireshark and troubleshooting basics. 
+ 
+### Javascript & CS Concepts
+
+* After diving into the fundamentals of programming, students get comfortable with object-oriented programming, Git, advanced HTML/5 & CSS3. Students will make an ajax api request and output the data into the DOM. Students will learn data massaging as well as ES6 syntax. SQL databases will also be covered. Class will analyze HTTP codes & CRUD concepts as well as cover Typescript and Unit Testing with Jest. 
+
+
+### Cloud Fundamentals
+
+* After diving into the fundamentals of programming, learners get comfortable with Docker & Kubernetes. Learners will be able to identify the differences between Containers & Virtual Machines & receive hands-on experience setting up servers. Other topics include functions in Kubernetes as well as Cloud Based Deployment. VMWare for On Prem vs AWS for Cloud solutions. 
+
+
+### AWS Focus
+* At the completion of this section learners will identify the key features of the core AWS technologies, Build, deploy and troubleshoot Serverless applications in AWS, Use AWS CLI, AWS service APIs  to interact with AWS.
+
 
 
 <br>
 
 ### Homework Submission
-- All homework (homework assigned on Tuesday, Thursday and Friday) must be submitted by Sunday every week.
+- All homework (homework assigned on Thursday and Sat) must be submitted by Sat of the following week.
 - Homework feedback will be provided the following Week after submission
 
 ###### #hw-submission-procedure
@@ -119,7 +103,6 @@ Sheets (CSS), and JavaScript.
 * `git add -A`
 * `git commit -m "current week homework”`
 * `git push`
-<!-- * Fill out this [Google Form](https://forms.gle/4NPb21sHPtbvKSYD6) with your github link for that specific homework. It will be the same Google Form for each homework. -->
 
 
 ## What We Expect From You
