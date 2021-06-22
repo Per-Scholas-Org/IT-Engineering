@@ -43,7 +43,7 @@
 * Homework Grader - Josh Akins
 
 
-### Office Hourse
+### Office Hours
 * TBD
 
 
